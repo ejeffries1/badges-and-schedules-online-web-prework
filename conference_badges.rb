@@ -25,5 +25,5 @@ end
 assign_rooms.each do |badge|
   puts badge
 end
-
+end
 # Write your code here.
