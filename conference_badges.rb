@@ -19,6 +19,7 @@ return array
 end
 
 def printer(rooms)
-return assign_rooms
+  rooms = "#{batch_badge_creator}" + "#{assign_rooms}"
+return rooms
 end
 # Write your code here.
