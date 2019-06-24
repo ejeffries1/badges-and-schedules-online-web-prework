@@ -18,7 +18,7 @@ def assign_rooms(attendees)
 return array
 end
 
-def printer()
-puts "#{batch_badge_creator(assign_rooms)}"
+def printer
+return assign_rooms
 end
 # Write your code here.
