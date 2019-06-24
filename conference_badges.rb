@@ -19,6 +19,6 @@ return array
 end
 
 def printer()
-puts batch_badge_creator(assign_rooms)
+puts "#{batch_badge_creator(assign_rooms)}"
 end
 # Write your code here.
