@@ -20,6 +20,6 @@ end
 
 def printer(rooms)
   rooms = "#{batch_badge_creator}" + "#{assign_rooms}"
-return rooms
+print rooms
 end
 # Write your code here.
